@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "203263806142",
+    "project_id": "minomicscheck",
+    "storage_bucket": "minomicscheck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203263806142:android:76c30227d5fc688b08ecef",
+        "android_client_info": {
+          "package_name": "com.developer.minomics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203263806142-7mcla5odb3tah1he7sb9ebrpnq5igg6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.minomics",
+            "certificate_hash": "b721aaa675a41c3972d7f08fb5ffa89eb2adb6bd"
+          }
+        },
+        {
+          "client_id": "203263806142-668960r2mio5p6868n0jiqgm49r658qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5TumpzbmkvFhScd2QucT73KE8_QiyfUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203263806142-668960r2mio5p6868n0jiqgm49r658qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
